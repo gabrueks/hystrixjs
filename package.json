@@ -1,0 +1,17 @@
+{
+  "name": "nodehystrixjs",
+  "version": "1.0.0",
+  "description": "A project that binds nodeJS and HystrixJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "hystrixjs": "^0.2.0",
+    "rxjs": "^5.0.0"
+  },
+  "author": "Gabriel Bolzi",
+  "license": "ISC"
+}

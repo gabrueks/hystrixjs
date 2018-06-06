@@ -1,0 +1,22 @@
+Comandos para rodar tudo
+//
+
+cd servers/server1
+
+npm start
+
+cd ..
+
+cd server2
+
+npm start
+
+cd ..
+cd ..
+
+node app.js
+
+//
+
+e acessar localhost:3000, nele você verá o servidor que está batendo a request.
+se você acessar localhost:3000/sse você verá o status do circuito.
